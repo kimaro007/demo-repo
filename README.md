@@ -1,3 +1,3 @@
 # Demo
 
-Some Discriprion.
+Some Discriprion About Git
